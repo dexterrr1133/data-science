@@ -2,18 +2,24 @@
 
 ## Student Information
 
-- **Name:** Linus Figueroa
-- **Course:** T2 - DATA SCIENCE (CCDATSCL) - 2025-2026
-- **Program:** Computer Science with Specialization in Machine Learning at NU Dasmarinas
-- **Professor:** Manolito V. Octaviano Jr.
+| Field | Details |
+|-------|---------|
+| **Name** | Linus Figueroa |
+| **Course** | T2 - DATA SCIENCE (CCDATSCL) |
+| **Period** | 2025-2026 |
+| **Program** | Computer Science with Specialization in Machine Learning |
+| **Institution** | NU Dasmarinas |
+| **Professor** | Manolito V. Octaviano Jr. |
 
-## About This Repository
+## Course Modules
 
-This repository contains coursework and educational materials for the Data Science program. It includes practical exercises and projects covering fundamental and advanced topics in data science:
+| Module | Description | Key Topics |
+|--------|-------------|-----------|
+| **SQL** | Database fundamentals and query optimization | Basic queries, advanced joins, subqueries |
+| **Python** | Core programming and data manipulation | Basics, data structures, pandas, visualization |
+| **Machine Learning** | Classification, clustering, and prediction models | KNN, decision trees, neural networks, regression |
+| **Data Mining** | Pattern discovery and association rules | Market basket analysis, frequent itemsets, rules |
 
-- **SQL Module:** Database fundamentals, basic and advanced SQL queries
-- **Python Module:** Python basics, data manipulation, and visualization
-- **Machine Learning Module:** Classification, clustering, and regression techniques
-- **Data Mining Module:** Data mining applications and techniques using both Python and SQL
+## Repository Structure
 
-Each module includes Jupyter notebooks with hands-on examples and datasets for practical learning and experimentation.
+Each module contains Jupyter notebooks with hands-on examples and datasets for practical learning and experimentation.
